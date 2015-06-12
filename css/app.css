@@ -203,5 +203,14 @@ body {
   font-family: 'AvenirLTStd-Heavy', sans-serif;
 }
 
+.panel h1 {
+  margin-top: 50px;
+  text-align: left;
+  margin-left:80px;
+  font-size: 1.17em;
+  color: #58585B;
+   
+  font-family: 'AvenirLTStd-Heavy', sans-serif;
+
 
 
