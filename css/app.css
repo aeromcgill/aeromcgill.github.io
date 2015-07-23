@@ -33,10 +33,9 @@
 
 .section1 {
   margin-top: -19px;
-
-  height: 900px;
   text-align: center;
   padding-top: 50px;
+  padding-bottom: 50px;
   z-index: 0;
   position: relative;
 
@@ -60,8 +59,8 @@ background : -moz-linear-gradient(2.72% -10.43% -30deg,rgba(78, 157, 207, 1) 0%,
 
 .section2 {
   text-align: center;
-  padding-top: 110px;
-  padding-bottom: 110px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   z-index: 0;
   position: relative;
   background-color:white;
@@ -78,8 +77,8 @@ background : -moz-linear-gradient(2.72% -10.43% -30deg,rgba(78, 157, 207, 1) 0%,
  
   font-family: 'AvenirLTStd-Light', sans-serif;
   font-size: 18px;
-  padding-top: 100px;
-  padding-bottom: 110px;  
+  padding-top: 50px;
+  padding-bottom: 50px;  
   z-index: 0;
   position: relative;
   /*background-image: url("../img/crosses.png");
@@ -201,7 +200,7 @@ body {
 }
 
 .panel h1 {
-  padding-top: 50px;
+  padding-top: 30px;
   text-align: left;
   margin-left:80px;
   font-size: 40px;
