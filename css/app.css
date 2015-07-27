@@ -55,6 +55,7 @@ background : -moz-linear-gradient(2.72% -10.43% -30deg,rgba(78, 157, 207, 1) 0%,
   font-size: 18px;
   padding-left: 100px;
   padding-right: 100px; 
+  line-height: 200%;
 }
 
 .section2 {
@@ -109,6 +110,13 @@ background : -moz-linear-gradient(2.72% -10.43% -30deg,rgba(78, 157, 207, 1) 0%,
 .section3 p {
   padding-left: 100px;
   padding-right: 100px;  
+  line-height: 200%;
+}
+
+.section2 p {
+  padding-left: 100px;
+  padding-right: 100px;  
+  line-height: 200%;
 }
 
 body {
